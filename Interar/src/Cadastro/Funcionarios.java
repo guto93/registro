@@ -34,6 +34,7 @@ public class Funcionarios {
 
 		while (continua == 's'); // while verifica dentro do laço, mais a variavel precisa ser criada fora
 
+		System.out.println();
 		System.out.println("Cadastros finalizados ");
 		as.close();
 
